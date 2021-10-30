@@ -1,0 +1,7 @@
+predictions\Predictions.class
+predictions\DataStore.class
+predictions\ServiceHashHandler.class
+predictions\PredictionsSOAPPublisher.class
+predictions\PredictionsSOAP.class
+predictions\VerbosityException.class
+predictions\Prediction.class
