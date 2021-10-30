@@ -1,0 +1,279 @@
+getAll
+
+Name == moe
+Timestamp == 2021-10-29T14:09:49Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">Ok6+3RVCSlsxDHTe7vi/CQz/BzIbQKNflKJ0q04zI3Q=</Signature><Timestamp xmlns="">2021-10-29T14:09:49Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:getAll/></S:Body></S:Envelope> 1: Cornelius Tillman predicts: Managed holistic contingency will grow killer action-items.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">Ok6+3RVCSlsxDHTe7vi/CQz/BzIbQKNflKJ0q04zI3Q=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:49Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getAll />
+   </S:Body>
+</S:Envelope>
+
+ 2: Conner Kulas predicts: Vision-oriented zero administration time-frame will generate back-end interfaces.
+ 3: Loraine Ryan predicts: Triple-buffered scalable function will productize visionary infomediaries.
+ 4: Patricia Zulauf predicts: Reactive radical knowledge base will aggregate extensible vortals.
+ 5: River Wiza predicts: Face to face client-server pricing structure will whiteboard robust communities.
+ 6: Jarred Wehner predicts: Future-proofed 5th generation protocol will strategize web-enabled networks.
+ 7: Emily Roob predicts: Cross-group fresh-thinking encoding will reinvent dot-com systems.
+ 8: Elvis Ernser predicts: Customizable assymetric database will visualize virtual action-items.
+ 9: Kathryn Hilpert predicts: User-centric non-volatile open architecture will iterate world-class vortals.
+10: Tanner Dietrich predicts: Enhanced zero tolerance system engine will evolve turn-key deliverables.
+11: Linnie Funk predicts: Distributed dynamic moratorium will iterate magnetic e-commerce.
+12: Emery Ward predicts: Synergistic demand-driven functionalities will visualize compelling vortals.
+13: Craig Leuschke predicts: Robust intermediate extranet will facilitate best-of-breed synergies.
+14: Shayna Lehner predicts: Digitized optimal conglomeration will exploit proactive relationships.
+15: Hollis McCullough predicts: Universal fault-tolerant architecture will synthesize bleeding-edge channels.
+16: Mina Hayes predicts: Cloned assymetric intranet will enable innovative functionalities.
+17: River Friesen predicts: Decentralized 24/7 hub will target robust web-readiness.
+18: Carmel Becker predicts: Synergistic disintermediate policy will expedite back-end experiences.
+19: Bartholome Walsh predicts: Triple-buffered didactic emulation will visualize integrated channels.
+20: Russel Robel predicts: Configurable intangible alliance will scale sexy ROI.
+21: Charlene Mertz predicts: Triple-buffered neutral collaboration will incubate B2B deliverables.
+22: Letitia Pacocha predicts: User-centric multi-state success will transform proactive convergence.
+23: Lottie Marks predicts: Open-source multi-tasking time-frame will monetize rich partnerships.
+24: Kaden Crona predicts: Optional static definition will unleash dynamic e-tailers.
+25: Everardo Lind predicts: De-engineered systematic emulation will deploy out-of-the-box partnerships.
+26: Lilyan Thompson predicts: Synergistic 24/7 website will transition 24/7 methodologies.
+27: Alessia O'Connell predicts: Reactive value-added middleware will engineer next-generation partnerships.
+28: Reymundo Champlin predicts: Self-enabling reciprocal synergy will generate seamless portals.
+29: Immanuel Bergstrom predicts: Assimilated intermediate superstructure will drive vertical methodologies.
+30: Dahlia Robel predicts: Proactive demand-driven open architecture will innovate impactful networks.
+31: Deven Blanda predicts: Balanced clear-thinking utilisation will expedite collaborative initiatives.
+32: Hiram Gulgowski predicts: Versatile tangible application will maximize rich e-business.
+
+getOne (31)
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:getOne><arg0>31</arg0></ns2:getOne></S:Body></S:Envelope>Balanced clear-thinking utilisation will expedite collaborative initiatives.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getOne>
+         <arg0>31</arg0>
+      </ns2:getOne>
+   </S:Body>
+</S:Envelope>
+
+deleteTest
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:delete><arg0>33</arg0></ns2:delete></S:Body></S:Envelope>Prediction 33 not found.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:delete>
+         <arg0>33</arg0>
+      </ns2:delete>
+   </S:Body>
+</S:Envelope>
+
+getAll
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:getAll/></S:Body></S:Envelope> 1: Cornelius Tillman predicts: Managed holistic contingency will grow killer action-items.
+ 2: Conner Kulas predicts: Vision-oriented zero administration time-frame will generate back-end interfaces.
+ 3: Loraine Ryan predicts: Triple-buffered scalable function will productize visionary infomediaries.
+ 4: Patricia Zulauf predicts: Reactive radical knowledge base will aggregate extensible vortals.
+ 5: River Wiza predicts: Face to face client-server pricing structure will whiteboard robust communities.
+ 6: Jarred Wehner predicts: Future-proofed 5th generation protocol will strategize web-enabled networks.
+ 7: Emily Roob predicts: Cross-group fresh-thinking encoding will reinvent dot-com systems.
+ 8: Elvis Ernser predicts: Customizable assymetric database will visualize virtual action-items.
+ 9: Kathryn Hilpert predicts: User-centric non-volatile open architecture will iterate world-class vortals.
+10: Tanner Dietrich predicts: Enhanced zero tolerance system engine will evolve turn-key deliverables.
+11: Linnie Funk predicts: Distributed dynamic moratorium will iterate magnetic e-commerce.
+12: Emery Ward predicts: Synergistic demand-driven functionalities will visualize compelling vortals.
+13: Craig Leuschke predicts: Robust intermediate extranet will facilitate best-of-breed synergies.
+14: Shayna Lehner predicts: Digitized optimal conglomeration will exploit proactive relationships.
+15: Hollis McCullough predicts: Universal fault-tolerant architecture will synthesize bleeding-edge channels.
+16: Mina Hayes predicts: Cloned assymetric intranet will enable innovative functionalities.
+17: River Friesen predicts: Decentralized 24/7 hub will target robust web-readiness.
+18: Carmel Becker predicts: Synergistic disintermediate policy will expedite back-end experiences.
+19: Bartholome Walsh predicts: Triple-buffered didactic emulation will visualize integrated channels.
+20: Russel Robel predicts: Configurable intangible alliance will scale sexy ROI.
+21: Charlene Mertz predicts: Triple-buffered neutral collaboration will incubate B2B deliverables.
+22: Letitia Pacocha predicts: User-centric multi-state success will transform proactive convergence.
+23: Lottie Marks predicts: Open-source multi-tasking time-frame will monetize rich partnerships.
+24: Kaden Crona predicts: Optional static definition will unleash dynamic e-tailers.
+25: Everardo Lind predicts: De-engineered systematic emulation will deploy out-of-the-box partnerships.
+26: Lilyan Thompson predicts: Synergistic 24/7 website will transition 24/7 methodologies.
+27: Alessia O'Connell predicts: Reactive value-added middleware will engineer next-generation partnerships.
+28: Reymundo Champlin predicts: Self-enabling reciprocal synergy will generate seamless portals.
+29: Immanuel Bergstrom predicts: Assimilated intermediate superstructure will drive vertical methodologies.
+30: Dahlia Robel predicts: Proactive demand-driven open architecture will innovate impactful networks.
+31: Deven Blanda predicts: Balanced clear-thinking utilisation will expedite collaborative initiatives.
+32: Hiram Gulgowski predicts: Versatile tangible application will maximize rich e-business.
+
+putTest -- here's the record to be edited
+
+
+getOne (31)
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:getOne><arg0>31</arg0></ns2:getOne></S:Body></S:Envelope>Balanced clear-thinking utilisation will expedite collaborative initiatives.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getOne>
+         <arg0>31</arg0>
+      </ns2:getOne>
+   </S:Body>
+</S:Envelope>
+
+putTest results
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:edit><arg0>0</arg0><arg1>FooBarBaz</arg1></ns2:edit></S:Body></S:Envelope>Prediction 0 not found.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:edit>
+         <arg0>0</arg0>
+         <arg1>FooBarBaz</arg1>
+      </ns2:edit>
+   </S:Body>
+</S:Envelope>
+
+Confirming:
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:getOne><arg0>31</arg0></ns2:getOne></S:Body></S:Envelope>Deven Blanda
+Balanced clear-thinking utilisation will expedite collaborative initiatives.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getOne>
+         <arg0>31</arg0>
+      </ns2:getOne>
+   </S:Body>
+</S:Envelope>
+
+getAll
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:getAll/></S:Body></S:Envelope> 1: Cornelius Tillman predicts: Managed holistic contingency will grow killer action-items.
+ 2: Conner Kulas predicts: Vision-oriented zero administration time-frame will generate back-end interfaces.
+ 3: Loraine Ryan predicts: Triple-buffered scalable function will productize visionary infomediaries.
+ 4: Patricia Zulauf predicts: Reactive radical knowledge base will aggregate extensible vortals.
+ 5: River Wiza predicts: Face to face client-server pricing structure will whiteboard robust communities.
+ 6: Jarred Wehner predicts: Future-proofed 5th generation protocol will strategize web-enabled networks.
+ 7: Emily Roob predicts: Cross-group fresh-thinking encoding will reinvent dot-com systems.
+ 8: Elvis Ernser predicts: Customizable assymetric database will visualize virtual action-items.
+ 9: Kathryn Hilpert predicts: User-centric non-volatile open architecture will iterate world-class vortals.
+10: Tanner Dietrich predicts: Enhanced zero tolerance system engine will evolve turn-key deliverables.
+11: Linnie Funk predicts: Distributed dynamic moratorium will iterate magnetic e-commerce.
+12: Emery Ward predicts: Synergistic demand-driven functionalities will visualize compelling vortals.
+13: Craig Leuschke predicts: Robust intermediate extranet will facilitate best-of-breed synergies.
+14: Shayna Lehner predicts: Digitized optimal conglomeration will exploit proactive relationships.
+15: Hollis McCullough predicts: Universal fault-tolerant architecture will synthesize bleeding-edge channels.
+16: Mina Hayes predicts: Cloned assymetric intranet will enable innovative functionalities.
+17: River Friesen predicts: Decentralized 24/7 hub will target robust web-readiness.
+18: Carmel Becker predicts: Synergistic disintermediate policy will expedite back-end experiences.
+19: Bartholome Walsh predicts: Triple-buffered didactic emulation will visualize integrated channels.
+20: Russel Robel predicts: Configurable intangible alliance will scale sexy ROI.
+21: Charlene Mertz predicts: Triple-buffered neutral collaboration will incubate B2B deliverables.
+22: Letitia Pacocha predicts: User-centric multi-state success will transform proactive convergence.
+23: Lottie Marks predicts: Open-source multi-tasking time-frame will monetize rich partnerships.
+24: Kaden Crona predicts: Optional static definition will unleash dynamic e-tailers.
+25: Everardo Lind predicts: De-engineered systematic emulation will deploy out-of-the-box partnerships.
+26: Lilyan Thompson predicts: Synergistic 24/7 website will transition 24/7 methodologies.
+27: Alessia O'Connell predicts: Reactive value-added middleware will engineer next-generation partnerships.
+28: Reymundo Champlin predicts: Self-enabling reciprocal synergy will generate seamless portals.
+29: Immanuel Bergstrom predicts: Assimilated intermediate superstructure will drive vertical methodologies.
+30: Dahlia Robel predicts: Proactive demand-driven open architecture will innovate impactful networks.
+31: Deven Blanda predicts: Balanced clear-thinking utilisation will expedite collaborative initiatives.
+32: Hiram Gulgowski predicts: Versatile tangible application will maximize rich e-business.
+
+postTest
+
+Name == moe
+Timestamp == 2021-10-29T14:09:50Z
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header><credentials xmlns="http://predictionsSOAP"><Name xmlns="">moe</Name><Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature><Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp></credentials></SOAP-ENV:Header><S:Body xmlns:ns2="http://predictions/"><ns2:create><arg0>Freddy</arg0><arg1>foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo.</arg1></ns2:create></S:Body></S:Envelope><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header/><S:Body xmlns:ns4="http://www.w3.org/2003/05/soap-envelope"><S:Fault><faultcode>S:Server</faultcode><faultstring>18 is too verbose!</faultstring><detail xmlns:ns2="http://predictions/"><ns2:VerbosityException><faultInfo>Max words: 16</faultInfo><message>18 is too verbose!</message></ns2:VerbosityException></detail></S:Fault></S:Body></S:Envelope>Error: 18 is too verbose!
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:create>
+         <arg0>Freddy</arg0>
+         <arg1>foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo.</arg1>
+      </ns2:create>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header />
+   <S:Body xmlns:ns4="http://www.w3.org/2003/05/soap-envelope">
+      <S:Fault>
+         <faultcode>S:Server</faultcode>
+         <faultstring>18 is too verbose!</faultstring>
+         <detail xmlns:ns2="http://predictions/">
+            <ns2:VerbosityException>
+               <faultInfo>Max words: 16</faultInfo>
+               <message>18 is too verbose!</message>
+            </ns2:VerbosityException>
+         </detail>
+      </S:Fault>
+   </S:Body>
+</S:Envelope>

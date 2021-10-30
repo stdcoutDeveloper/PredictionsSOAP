@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:getAll xmlns:ns2="http://predictions/" />
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:getOne xmlns:ns2="http://predictions/">
+   <arg0>31</arg0>
+</ns2:getOne>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:delete xmlns:ns2="http://predictions/">
+   <arg0>33</arg0>
+</ns2:delete>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:edit xmlns:ns2="http://predictions/">
+   <arg0>0</arg0>
+   <arg1>FooBarBaz</arg1>
+</ns2:edit>

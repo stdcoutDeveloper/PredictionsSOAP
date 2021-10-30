@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">Ok6+3RVCSlsxDHTe7vi/CQz/BzIbQKNflKJ0q04zI3Q=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:49Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getAll />
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getOne>
+         <arg0>31</arg0>
+      </ns2:getOne>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:delete>
+         <arg0>33</arg0>
+      </ns2:delete>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getOne>
+         <arg0>31</arg0>
+      </ns2:getOne>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:edit>
+         <arg0>0</arg0>
+         <arg1>FooBarBaz</arg1>
+      </ns2:edit>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:getOne>
+         <arg0>31</arg0>
+      </ns2:getOne>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <credentials xmlns="http://predictionsSOAP">
+         <Name xmlns="">moe</Name>
+         <Signature xmlns="">vVnTQYPIF0t39oc0Y8noSX7HoyyhZwSLYb8BphnftGk=</Signature>
+         <Timestamp xmlns="">2021-10-29T14:09:50Z</Timestamp>
+      </credentials>
+   </SOAP-ENV:Header>
+   <S:Body xmlns:ns2="http://predictions/">
+      <ns2:create>
+         <arg0>Freddy</arg0>
+         <arg1>foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo.</arg1>
+      </ns2:create>
+   </S:Body>
+</S:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header />
+   <S:Body xmlns:ns4="http://www.w3.org/2003/05/soap-envelope">
+      <S:Fault>
+         <faultcode>S:Server</faultcode>
+         <faultstring>18 is too verbose!</faultstring>
+         <detail xmlns:ns2="http://predictions/">
+            <ns2:VerbosityException>
+               <faultInfo>Max words: 16</faultInfo>
+               <message>18 is too verbose!</message>
+            </ns2:VerbosityException>
+         </detail>
+      </S:Fault>
+   </S:Body>
+</S:Envelope>
